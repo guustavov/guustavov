@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey, I'm Gustavo! Nice to meet you! 👋
+
+Keeping in touch with tech since [high school](https://foz.ifpr.edu.br/menu-de-cursos/tecnico-em-informatica/). My last academic achievement was a master's degree at [Unioeste](https://www5.unioeste.br/portalunioeste/pos/pgeec).
+
+Currently working at [PTI](https://www.pti.org.br/) developing web applications mainly in Angular and Spring Boot. The projects I take part are usually related to electrical industry companies, such as [Itaipu](https://www.itaipu.gov.br/) and [Eletronuclear](https://www.eletronuclear.gov.br/).
+
+As an enthusiast of stuff like automated tests and continuous integration/delivery, the facility of writing and testing Elixir code is fascinating me. Still taking my first steps, but already enjoying very much this little I learned so far.
+
+Feel free to make contact! See ya! :v:
+
+[![LinkedIn](https://img.shields.io/badge/Linkedin-gray?logo=linkedin)](https://www.linkedin.com/in/gustavo-vieira-73803a121)
 
 <!--
 **guustavov/guustavov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
