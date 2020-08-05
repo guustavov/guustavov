@@ -8,7 +8,7 @@ As an enthusiast of stuff like automated tests and continuous integration/delive
 
 Feel free to make contact! See ya! :v:
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-gray?logo=linkedin)](https://www.linkedin.com/in/gustavo-vieira-73803a121)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-gray?logo=linkedin)](https://www.linkedin.com/in/guustavov)
 
 <!--
 **guustavov/guustavov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
