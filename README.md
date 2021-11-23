@@ -2,11 +2,11 @@
 
 Keeping in touch with tech since [high school](https://foz.ifpr.edu.br/menu-de-cursos/tecnico-em-informatica/). My last academic achievement was a master's degree at [Unioeste](https://www5.unioeste.br/portalunioeste/pos/pgeec).
 
-Currently working at [PTI](https://www.pti.org.br/) developing web applications mainly in Angular and Spring Boot. The projects I take part are usually related to electrical industry companies, such as [Itaipu](https://www.itaipu.gov.br/) and [Eletronuclear](https://www.eletronuclear.gov.br/).
+Previously working at [PTI](https://www.pti.org.br/) developing web applications mainly in Angular <img src="https://emojis.slackmojis.com/emojis/images/1620759626/38068/angular.png" width="15"/> and Spring <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png" width="18"/><img src="https://emojis.slackmojis.com/emojis/images/1536564975/4642/spring.png?1536564975" width="16"/>. The projects I take part are usually related to electrical industry companies, such as [Itaipu](https://www.itaipu.gov.br/) and [Eletronuclear](https://www.eletronuclear.gov.br/).
 
-As an enthusiast of stuff like automated tests and continuous integration/delivery, the facility of writing and testing Elixir code is fascinating me. Still taking my first steps, but already enjoying very much this little I learned so far.
+Currently solving FTUE and engineering problems at [Pipefy](pipefy.com) as a Backend Software Engineer with Ruby <img src="https://emojis.slackmojis.com/emojis/images/1450319445/31/ruby.png?1450319445" width="14"/> and Elixir <img src="https://emojis.slackmojis.com/emojis/images/1486667989/1714/elixir.png?1486667989" width="18"/>
 
-Feel free to make contact! See ya! :v:
+Feel free to contact me! :v:
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-gray?logo=linkedin)](https://www.linkedin.com/in/guustavov)
 
